@@ -20,6 +20,6 @@ through smart device user data by analyzing trends and user behavior.
 - **Three user segments** identified based on device usage frequency.
 
 ###  Full Documentation
-- You can access full documentation file [here](https://www.kaggle.com/arashnic/fitbit)
+- You can access full documentation file. [here](https://github.com/farhanhauzan/capstone-project-bellabeat-user-analysis/blob/main/docs/Capstone%20project%20documentation.pdf)
 - Dashboard Visualization
    
